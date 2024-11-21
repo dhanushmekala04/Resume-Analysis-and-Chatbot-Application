@@ -1,5 +1,4 @@
-### Project Title
-**Resume Analysis and Chatbot Application**
+#**Resume Analysis and Chatbot Application**
 
 ### README
 
