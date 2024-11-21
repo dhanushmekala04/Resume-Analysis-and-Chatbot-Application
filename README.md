@@ -11,37 +11,6 @@ The Resume Analysis and Chatbot Application is a robust tool designed to streaml
 - **Interactive Chatbot**: Allows users to ask questions and get responses based on the analyzed data.
 - **Advanced NLP and Machine Learning**: Utilizes state-of-the-art models and vector stores for efficient data retrieval and analysis.
 
-#### Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/dhanushmekala04/Resume-Analysis-and-Chatbot-Application.git
-   cd Resume-Analysis-and-Chatbot-Application
-   ```
-
-2. **Unzip Backend and Frontend Files**:
-   ```bash
-   unzip backend.zip
-   unzip frontend.zip
-   ```
-
-3. **Install Dependencies**:
-   Ensure you have Python installed and then run:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Set Up Environment Variables**:
-   Create a `.env` file in the project root directory and add your API keys:
-   ```
-   GROQ_API_KEY=your_groq_api_key
-   ```
-
-5. **Run the Application**:
-   ```bash
-   streamlit run app.py
-   ```
-
 #### Usage
 1. **Upload a Resume**: Upload a resume in PDF format through the sidebar.
 2. **Enter Job Description**: Enter the job description in the provided text area.
