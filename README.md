@@ -1,8 +1,6 @@
 ## Resume Analysis and Chatbot Application
 
-### README
-
-#### Project Overview
+#### Overview
 The Resume Analysis and Chatbot Application is a robust tool designed to streamline the process of analyzing resumes and assessing their compatibility with job descriptions. Leveraging advanced natural language processing and machine learning techniques, this application enables users to upload resumes, perform detailed analysis, and interact with the data through a chatbot interface.
 
 #### Features
